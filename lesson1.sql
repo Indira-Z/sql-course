@@ -63,7 +63,7 @@ group by i.CustomerId
 --order by i.CustomerId;
 ;
 
--- Customers and employees
+-- Customers and employees  
 SELECT e.EmployeeId,
     --   e.FirstName,
       -- e.LastName,
